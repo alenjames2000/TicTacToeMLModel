@@ -1,0 +1,33 @@
+Linear SVM Test 1 Accuracy on Noisy Classification Dataset: 0.7708333333333334
+Linear SVM Test 2 Accuracy on Noisy Classification Dataset: 0.8020833333333334
+Linear SVM Test 3 Accuracy on Noisy Classification Dataset: 0.7708333333333334
+Linear SVM Test 4 Accuracy on Noisy Classification Dataset: 0.8020833333333334
+Linear SVM Test 5 Accuracy on Noisy Classification Dataset: 0.7708333333333334
+Linear SVM Test 6 Accuracy on Noisy Classification Dataset: 0.8020833333333334
+Linear SVM Test 7 Accuracy on Noisy Classification Dataset: 0.8229166666666666
+Linear SVM Test 8 Accuracy on Noisy Classification Dataset: 0.7604166666666666
+Linear SVM Test 9 Accuracy on Noisy Classification Dataset: 0.7684210526315789
+Linear SVM Test 10 Accuracy on Noisy Classification Dataset: 0.8
+Linear SVM Test Average Accuracy on Noisy Classification Dataset: 0.7870504385964913
+K-NN Test 1 Accuracy on Noisy Classification Dataset: 0.75
+K-NN Test 2 Accuracy on Noisy Classification Dataset: 0.75
+K-NN Test 3 Accuracy on Noisy Classification Dataset: 0.7604166666666666
+K-NN Test 4 Accuracy on Noisy Classification Dataset: 0.7916666666666666
+K-NN Test 5 Accuracy on Noisy Classification Dataset: 0.71875
+K-NN Test 6 Accuracy on Noisy Classification Dataset: 0.8125
+K-NN Test 7 Accuracy on Noisy Classification Dataset: 0.78125
+K-NN Test 8 Accuracy on Noisy Classification Dataset: 0.7291666666666666
+K-NN Test 9 Accuracy on Noisy Classification Dataset: 0.7157894736842105
+K-NN Test 10 Accuracy on Noisy Classification Dataset: 0.7789473684210526
+K-NN Test Average Accuracy on Noisy Classification Dataset: 0.7588486842105263
+Multilayer Perceptron Test 1 Accuracy on Noisy Classification Dataset: 0.7708333333333334
+Multilayer Perceptron Test 2 Accuracy on Noisy Classification Dataset: 0.8020833333333334
+Multilayer Perceptron Test 3 Accuracy on Noisy Classification Dataset: 0.7604166666666666
+Multilayer Perceptron Test 4 Accuracy on Noisy Classification Dataset: 0.8020833333333334
+Multilayer Perceptron Test 5 Accuracy on Noisy Classification Dataset: 0.7604166666666666
+Multilayer Perceptron Test 6 Accuracy on Noisy Classification Dataset: 0.8020833333333334
+Multilayer Perceptron Test 7 Accuracy on Noisy Classification Dataset: 0.7916666666666666
+Multilayer Perceptron Test 8 Accuracy on Noisy Classification Dataset: 0.75
+Multilayer Perceptron Test 9 Accuracy on Noisy Classification Dataset: 0.7684210526315789
+Multilayer Perceptron Test 10 Accuracy on Noisy Classification Dataset: 0.7684210526315789
+Multilayer Perceptron Test Average Accuracy on Noisy Classification Dataset: 0.7776425438596493

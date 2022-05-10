@@ -1,0 +1,33 @@
+Linear Regression Test 1 Accuracy on Noisy Classification Multi Dataset: 0.7813206693803709
+Linear Regression Test 2 Accuracy on Noisy Classification Multi Dataset: 0.7833371023669531
+Linear Regression Test 3 Accuracy on Noisy Classification Multi Dataset: 0.7823383084577115
+Linear Regression Test 4 Accuracy on Noisy Classification Multi Dataset: 0.7822629277853158
+Linear Regression Test 5 Accuracy on Noisy Classification Multi Dataset: 0.7827717473239861
+Linear Regression Test 6 Accuracy on Noisy Classification Multi Dataset: 0.7831863410221619
+Linear Regression Test 7 Accuracy on Noisy Classification Multi Dataset: 0.7827717473239861
+Linear Regression Test 8 Accuracy on Noisy Classification Multi Dataset: 0.7819990954319312
+Linear Regression Test 9 Accuracy on Noisy Classification Multi Dataset: 0.7813395145484697
+Linear Regression Test 10 Accuracy on Noisy Classification Multi Dataset: 0.7817352630785467
+Linear Regression Test Average Accuracy on Noisy Classification Multi Dataset: 0.7823062716719433
+K-NN Test 1 Accuracy on Noisy Classification Multi Dataset: 0.8115860093472034
+K-NN Test 2 Accuracy on Noisy Classification Multi Dataset: 0.8165799788934117
+K-NN Test 3 Accuracy on Noisy Classification Multi Dataset: 0.8167495854063018
+K-NN Test 4 Accuracy on Noisy Classification Multi Dataset: 0.8139793456957636
+K-NN Test 5 Accuracy on Noisy Classification Multi Dataset: 0.8107945122870496
+K-NN Test 6 Accuracy on Noisy Classification Multi Dataset: 0.8139981908638625
+K-NN Test 7 Accuracy on Noisy Classification Multi Dataset: 0.8098710990502035
+K-NN Test 8 Accuracy on Noisy Classification Multi Dataset: 0.8112467963214232
+K-NN Test 9 Accuracy on Noisy Classification Multi Dataset: 0.8143374038896427
+K-NN Test 10 Accuracy on Noisy Classification Multi Dataset: 0.8105872154379618
+K-NN Test Average Accuracy on Noisy Classification Multi Dataset: 0.8129730137192824
+Multilayer Perceptron Test 1 Accuracy on Noisy Classification Multi Dataset: 0.8330695009799487
+Multilayer Perceptron Test 2 Accuracy on Noisy Classification Multi Dataset: 0.8442823759987939
+Multilayer Perceptron Test 3 Accuracy on Noisy Classification Multi Dataset: 0.8462234283129806
+Multilayer Perceptron Test 4 Accuracy on Noisy Classification Multi Dataset: 0.8343509724106739
+Multilayer Perceptron Test 5 Accuracy on Noisy Classification Multi Dataset: 0.8378373285089703
+Multilayer Perceptron Test 6 Accuracy on Noisy Classification Multi Dataset: 0.8416252072968491
+Multilayer Perceptron Test 7 Accuracy on Noisy Classification Multi Dataset: 0.8367066184230363
+Multilayer Perceptron Test 8 Accuracy on Noisy Classification Multi Dataset: 0.8377996381727725
+Multilayer Perceptron Test 9 Accuracy on Noisy Classification Multi Dataset: 0.8390434192672999
+Multilayer Perceptron Test 10 Accuracy on Noisy Classification Multi Dataset: 0.8386288255691241
+Multilayer Perceptron Test Average Accuracy on Noisy Classification Multi Dataset: 0.838956731494045

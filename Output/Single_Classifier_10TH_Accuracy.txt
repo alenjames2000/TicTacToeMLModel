@@ -1,0 +1,33 @@
+Linear SVM Test 1 Accuracy on 1/10 Optimal Single Dataset: 0.6294097693351425
+Linear SVM Test 2 Accuracy on 1/10 Optimal Single Dataset: 0.6743554952510177
+Linear SVM Test 3 Accuracy on 1/10 Optimal Single Dataset: 0.6334803256445047
+Linear SVM Test 4 Accuracy on 1/10 Optimal Single Dataset: 0.6494233378561737
+Linear SVM Test 5 Accuracy on 1/10 Optimal Single Dataset: 0.6439959294436907
+Linear SVM Test 6 Accuracy on 1/10 Optimal Single Dataset: 0.6616350067842606
+Linear SVM Test 7 Accuracy on 1/10 Optimal Single Dataset: 0.6711329715061058
+Linear SVM Test 8 Accuracy on 1/10 Optimal Single Dataset: 0.6395861601085482
+Linear SVM Test 9 Accuracy on 1/10 Optimal Single Dataset: 0.6484056987788331
+Linear SVM Test 10 Accuracy on 1/10 Optimal Single Dataset: 0.6689280868385346
+Linear SVM Test Average Accuracy on 1/10 Optimal Single Dataset: 0.6520352781546812
+K-NN Test 1 Accuracy on 1/10 Optimal Single Dataset: 0.562415196743555
+K-NN Test 2 Accuracy on 1/10 Optimal Single Dataset: 0.5744572591587517
+K-NN Test 3 Accuracy on 1/10 Optimal Single Dataset: 0.5691994572591588
+K-NN Test 4 Accuracy on 1/10 Optimal Single Dataset: 0.562415196743555
+K-NN Test 5 Accuracy on 1/10 Optimal Single Dataset: 0.5649592944369064
+K-NN Test 6 Accuracy on 1/10 Optimal Single Dataset: 0.5568181818181818
+K-NN Test 7 Accuracy on 1/10 Optimal Single Dataset: 0.5647896879240163
+K-NN Test 8 Accuracy on 1/10 Optimal Single Dataset: 0.555291723202171
+K-NN Test 9 Accuracy on 1/10 Optimal Single Dataset: 0.5613975576662144
+K-NN Test 10 Accuracy on 1/10 Optimal Single Dataset: 0.566146540027137
+K-NN Test Average Accuracy on 1/10 Optimal Single Dataset: 0.5637890094979646
+Multilayer Perceptron Test 1 Accuracy on 1/10 Optimal Single Dataset: 0.6806309362279511
+Multilayer Perceptron Test 2 Accuracy on 1/10 Optimal Single Dataset: 0.7177747625508819
+Multilayer Perceptron Test 3 Accuracy on 1/10 Optimal Single Dataset: 0.6840230664857531
+Multilayer Perceptron Test 4 Accuracy on 1/10 Optimal Single Dataset: 0.7157394843962008
+Multilayer Perceptron Test 5 Accuracy on 1/10 Optimal Single Dataset: 0.701662143826323
+Multilayer Perceptron Test 6 Accuracy on 1/10 Optimal Single Dataset: 0.7092944369063772
+Multilayer Perceptron Test 7 Accuracy on 1/10 Optimal Single Dataset: 0.7072591587516961
+Multilayer Perceptron Test 8 Accuracy on 1/10 Optimal Single Dataset: 0.6975915875169606
+Multilayer Perceptron Test 9 Accuracy on 1/10 Optimal Single Dataset: 0.7048846675712347
+Multilayer Perceptron Test 10 Accuracy on 1/10 Optimal Single Dataset: 0.721336499321574
+Multilayer Perceptron Test Average Accuracy on 1/10 Optimal Single Dataset: 0.7040196743554953

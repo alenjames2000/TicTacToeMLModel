@@ -1,0 +1,33 @@
+Linear SVM Test 1 Accuracy on Noisy Optimal Single Dataset: 0.711890243902439
+Linear SVM Test 2 Accuracy on Noisy Optimal Single Dataset: 0.6702290076335878
+Linear SVM Test 3 Accuracy on Noisy Optimal Single Dataset: 0.6748091603053435
+Linear SVM Test 4 Accuracy on Noisy Optimal Single Dataset: 0.6702290076335878
+Linear SVM Test 5 Accuracy on Noisy Optimal Single Dataset: 0.6793893129770993
+Linear SVM Test 6 Accuracy on Noisy Optimal Single Dataset: 0.648854961832061
+Linear SVM Test 7 Accuracy on Noisy Optimal Single Dataset: 0.6534351145038167
+Linear SVM Test 8 Accuracy on Noisy Optimal Single Dataset: 0.6610687022900763
+Linear SVM Test 9 Accuracy on Noisy Optimal Single Dataset: 0.6687022900763359
+Linear SVM Test 10 Accuracy on Noisy Optimal Single Dataset: 0.6717557251908397
+Linear SVM Test Average Accuracy on Noisy Optimal Single Dataset: 0.6710363526345187
+K-NN Test 1 Accuracy on Noisy Optimal Single Dataset: 0.6524390243902439
+K-NN Test 2 Accuracy on Noisy Optimal Single Dataset: 0.6549618320610687
+K-NN Test 3 Accuracy on Noisy Optimal Single Dataset: 0.6213740458015267
+K-NN Test 4 Accuracy on Noisy Optimal Single Dataset: 0.6091603053435114
+K-NN Test 5 Accuracy on Noisy Optimal Single Dataset: 0.6122137404580152
+K-NN Test 6 Accuracy on Noisy Optimal Single Dataset: 0.6091603053435114
+K-NN Test 7 Accuracy on Noisy Optimal Single Dataset: 0.6076335877862595
+K-NN Test 8 Accuracy on Noisy Optimal Single Dataset: 0.5923664122137404
+K-NN Test 9 Accuracy on Noisy Optimal Single Dataset: 0.6320610687022901
+K-NN Test 10 Accuracy on Noisy Optimal Single Dataset: 0.6045801526717557
+K-NN Test Average Accuracy on Noisy Optimal Single Dataset: 0.6195950474771923
+Multilayer Perceptron Test 1 Accuracy on Noisy Optimal Single Dataset: 0.7317073170731707
+Multilayer Perceptron Test 2 Accuracy on Noisy Optimal Single Dataset: 0.7038167938931298
+Multilayer Perceptron Test 3 Accuracy on Noisy Optimal Single Dataset: 0.7114503816793893
+Multilayer Perceptron Test 4 Accuracy on Noisy Optimal Single Dataset: 0.6961832061068702
+Multilayer Perceptron Test 5 Accuracy on Noisy Optimal Single Dataset: 0.6763358778625954
+Multilayer Perceptron Test 6 Accuracy on Noisy Optimal Single Dataset: 0.6793893129770993
+Multilayer Perceptron Test 7 Accuracy on Noisy Optimal Single Dataset: 0.7068702290076336
+Multilayer Perceptron Test 8 Accuracy on Noisy Optimal Single Dataset: 0.6763358778625954
+Multilayer Perceptron Test 9 Accuracy on Noisy Optimal Single Dataset: 0.6916030534351145
+Multilayer Perceptron Test 10 Accuracy on Noisy Optimal Single Dataset: 0.7038167938931298
+Multilayer Perceptron Test Average Accuracy on Noisy Optimal Single Dataset: 0.697750884379073

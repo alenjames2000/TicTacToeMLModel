@@ -1,0 +1,33 @@
+Linear Regression Test 1 Accuracy on 1/10 Classification Multi Dataset: 0.7830355796773707
+Linear Regression Test 2 Accuracy on 1/10 Classification Multi Dataset: 0.7832051861902608
+Linear Regression Test 3 Accuracy on 1/10 Classification Multi Dataset: 0.7816033469018544
+Linear Regression Test 4 Accuracy on 1/10 Classification Multi Dataset: 0.781867179255239
+Linear Regression Test 5 Accuracy on 1/10 Classification Multi Dataset: 0.7814525855570632
+Linear Regression Test 6 Accuracy on 1/10 Classification Multi Dataset: 0.7830355796773707
+Linear Regression Test 7 Accuracy on 1/10 Classification Multi Dataset: 0.7829790441730741
+Linear Regression Test 8 Accuracy on 1/10 Classification Multi Dataset: 0.7816787275742499
+Linear Regression Test 9 Accuracy on 1/10 Classification Multi Dataset: 0.781301824212272
+Linear Regression Test 10 Accuracy on 1/10 Classification Multi Dataset: 0.7817541082466456
+Linear Regression Test Average Accuracy on 1/10 Classification Multi Dataset: 0.78219131614654
+K-NN Test 1 Accuracy on 1/10 Classification Multi Dataset: 0.8569651741293532
+K-NN Test 2 Accuracy on 1/10 Classification Multi Dataset: 0.8573043871551335
+K-NN Test 3 Accuracy on 1/10 Classification Multi Dataset: 0.8545153022764963
+K-NN Test 4 Accuracy on 1/10 Classification Multi Dataset: 0.8581147293833861
+K-NN Test 5 Accuracy on 1/10 Classification Multi Dataset: 0.8576247550128148
+K-NN Test 6 Accuracy on 1/10 Classification Multi Dataset: 0.8562867480777928
+K-NN Test 7 Accuracy on 1/10 Classification Multi Dataset: 0.8517073722297603
+K-NN Test 8 Accuracy on 1/10 Classification Multi Dataset: 0.8540441730740238
+K-NN Test 9 Accuracy on 1/10 Classification Multi Dataset: 0.8551748831599578
+K-NN Test 10 Accuracy on 1/10 Classification Multi Dataset: 0.8583031810643751
+K-NN Test Average Accuracy on 1/10 Classification Multi Dataset: 0.8560040705563093
+Multilayer Perceptron Test 1 Accuracy on 1/10 Classification Multi Dataset: 0.889058495401779
+Multilayer Perceptron Test 2 Accuracy on 1/10 Classification Multi Dataset: 0.8937320970903061
+Multilayer Perceptron Test 3 Accuracy on 1/10 Classification Multi Dataset: 0.8880597014925373
+Multilayer Perceptron Test 4 Accuracy on 1/10 Classification Multi Dataset: 0.8891338760741746
+Multilayer Perceptron Test 5 Accuracy on 1/10 Classification Multi Dataset: 0.8900572893110207
+Multilayer Perceptron Test 6 Accuracy on 1/10 Classification Multi Dataset: 0.889435398763757
+Multilayer Perceptron Test 7 Accuracy on 1/10 Classification Multi Dataset: 0.8915460575908337
+Multilayer Perceptron Test 8 Accuracy on 1/10 Classification Multi Dataset: 0.8889642695612845
+Multilayer Perceptron Test 9 Accuracy on 1/10 Classification Multi Dataset: 0.8906226443539876
+Multilayer Perceptron Test 10 Accuracy on 1/10 Classification Multi Dataset: 0.8936944067541083
+Multilayer Perceptron Test Average Accuracy on 1/10 Classification Multi Dataset: 0.8904304236393787
